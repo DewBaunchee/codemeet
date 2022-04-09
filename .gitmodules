@@ -1,5 +1,5 @@
-[submodule "frontend"]
-	path = frontend
+[submodule "codemeet-frontend"]
+	path = codemeet-frontend
 	url = https://gitlab.com/c5983/codemeet-frontend
 [submodule "codemeet-api"]
 	path = codemeet-api
