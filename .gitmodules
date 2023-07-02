@@ -1,6 +1,6 @@
 [submodule "codemeet-frontend"]
 	path = codemeet-frontend
-	url = https://github.com/DewBauncee/codemeet-frontend
+	url = https://github.com/DewBaunchee/codemeet-frontend
 [submodule "codemeet-api"]
 	path = codemeet-api
-	url = https://github.com/DewBauncee/codemeet-api
+	url = https://github.com/DewBaunchee/codemeet-api
